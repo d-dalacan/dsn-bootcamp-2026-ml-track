@@ -40,8 +40,5 @@ DSN Mart operates stores ranging from small corner shops to flagship hypermarket
 
 Python, pandas, scikit-learn, XGBoost, LightGBM, matplotlib, seaborn
 
-## Author
-
-Biutrus Daniel Dalacan — 400-level Computer Science, Federal University of Technology, Minna
 
 [Kaggle Profile]([https://www.kaggle.com/danieldalacan)
